@@ -113,4 +113,4 @@ This project provides a comprehensive churn analysis pipeline—starting from ra
 
 ## 📬 Contact
 
-For queries or collaborations, feel free to reach out on [LinkedIn-www.linkedin.com/in/rai-adarsh] or email: `adarshjanardhanrai@gmail.com`
+For queries or collaborations, feel free to reach out on [https://www.linkedin.com/in/nimisha-joshi-621543201/] or email: `nimishajoshi819@gmail.com`
